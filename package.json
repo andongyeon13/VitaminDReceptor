@@ -45,7 +45,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://andongyeon13.github.io/VitaminDReceptor/",
+  "homepage": "./",
   "devDependencies": {
     "@babel/plugin-transform-private-property-in-object": "7.22.5",
     "react-scripts": "5.0.1"
